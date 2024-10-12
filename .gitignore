@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/QRCode Service (Kotlin)/*
+!/QRCode Service (Kotlin)/task/
+/QRCode Service (Kotlin)/task/*
+!/QRCode Service (Kotlin)/task/src
+!/QRCode Service (Kotlin)/task/build.gradle
